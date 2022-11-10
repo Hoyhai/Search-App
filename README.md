@@ -1,7 +1,6 @@
 # vue
 
 This template should help get you started developing with Vue 3 in Vite.
-- https://stellular-valkyrie-6612a4.netlify.app/
 
 Recommended IDE Setup
 
